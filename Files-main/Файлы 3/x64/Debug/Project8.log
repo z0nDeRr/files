@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Mr_Dynomite\source\repos\Project8\Project8\FileName.cpp(15,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Mr_Dynomite\source\repos\Project8\Project8\FileName.cpp(10): fatal  error C1075: "{": не найдена несоответствующая лексема
